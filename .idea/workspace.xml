@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30c728ba-fa9a-4f88-baa6-7d0b1df929c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ćwiczenia2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia2/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia2/11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia2/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia2/5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia2/7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ćwiczenia2/9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sx.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -199,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570815238571</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cwiczenia2">
+      <created>1570818631730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570818631730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +222,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fsdf" />
     <MESSAGE value="Cwiczenia1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cwiczenia1" />
+    <MESSAGE value="Cwiczenia2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cwiczenia2" />
   </component>
 </project>
